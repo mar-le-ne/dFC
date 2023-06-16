@@ -1,0 +1,16 @@
+1,LH_Vis
+8,LH_SomMot
+14,LH_DorsAttn
+21,LH_SalVentAttn
+28,LH_Limbic
+31,LH_Cont
+38,LH_Default
+50,LH_TempPar
+51,RH_Vis
+57,RH_SomMot
+65,RH_DorsAttn
+71,RH_SalVentAttn
+78,RH_Limbic
+80,RH_Cont
+89,RH_Default
+98,RH_TempPar
